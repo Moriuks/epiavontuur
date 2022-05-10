@@ -4,11 +4,25 @@ import './App.scss';
 import Greet from './components/Greet';
 import NavBar from './components/NavBar';
 
+//pages
+import Home from './pages/Home';
+import NotFound from './pages/NotFound';
+import Working from './pages/Working';
+
 function App() {
   return (
-    <div className="App">
-      <NavBar/>
-    </div>
+    <BrowserRouter>
+      {/* <NavBar /> */}
+          <Route path='*'>
+            <NotFound />
+          </Route>
+          <Route path='/'>
+            <Home />
+          </Route> 
+          <Route path='/working'>
+            <Working />
+          </Route> 
+      </BrowserRouter>
   );
 }
 
