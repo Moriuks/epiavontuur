@@ -20,7 +20,7 @@ function NavBar(){
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto Epi-departments">
-                <NavDropdown title="Nosotros" id="basic-nav-dropdown">
+                <NavDropdown  title="Nosotros" id="basic-nav-dropdown">
                     <NavDropdown.Item href="#action/1.1">Equipo</NavDropdown.Item>
                     <NavDropdown.Item href="#action/1.2">Nosotros</NavDropdown.Item>
                     <NavDropdown.Item href="#action/1.3">Carreras</NavDropdown.Item>
