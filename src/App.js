@@ -14,14 +14,15 @@ function App() {
     <BrowserRouter>
       {/* <NavBar /> */}
           <Route path='*'>
-            <Working />
+            <NotFound />
           </Route>
-          <Route path='/working'>
-            <Working />
+          <Route path='/'>
+            <Home />
           </Route> 
           <Route path='/working'>
             <Working />
           </Route> 
+
       </BrowserRouter>
   );
 }
