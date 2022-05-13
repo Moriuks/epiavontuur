@@ -1,6 +1,8 @@
+@import '../../styles/colors';
+
 body {
     font-family: 'Karla', sans-serif;
-    background-color: #6576e4;
+    background-color: $primary;
     color: #ffffff;
     padding-bottom: 75px;
 

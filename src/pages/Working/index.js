@@ -43,7 +43,7 @@ function Working() {
         <div class="container">
             <div class="row">
                 <div class="col-md-6 section-left">
-                    <h1 class="page-title">Volvemos contigo, esperanos en....</h1>
+                    <h1 class="page-title">Estamos en mantenimiento, esperanos en....</h1>
                     <div id="timer" class="bd-cd-timer">
                         <div class="time-card">
                             <span class="time-count" id="days"></span>
@@ -62,6 +62,7 @@ function Working() {
                             <span class="time-label">SEGUNDOS</span>
                         </div>
                     </div>
+                    <p> Lamentamos los inconvenientes</p>
                     {/* <form class="form-subscribe">
                         <div class="form-group">
                             <label for="email" class="sr-only">email</label>
