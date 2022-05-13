@@ -6,7 +6,7 @@ import Nav from 'react-bootstrap/Nav'
 import './NavBar.scss';
 
 function NavBar(){
-
+const logo = require('../../assets/logos/logoEpi.png')
     return(
         <Navbar  
           bg="light"

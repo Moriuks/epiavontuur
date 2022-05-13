@@ -33,4 +33,11 @@
 
 .dropdown-menu {
   width: 100% !important;
+  background-image: url(../../assets/logos/logoEpi.png);
+  background-position:center;
+}
+
+.dropdown-item:hover {
+    color: #1e2125;
+    background-color: #bb8e17;
 }
