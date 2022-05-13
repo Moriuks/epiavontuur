@@ -16,7 +16,7 @@ function App() {
           <Route path='*'>
             <NotFound />
           </Route>
-          <Route path='/working'>
+          <Route path='/'>
             <Working />
           </Route> 
           <Route path='/working'>
