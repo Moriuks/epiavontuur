@@ -37,7 +37,7 @@ function Working() {
 
   return (
     <div className="App">
-      {/* <NavBar/> */}
+      
       <body class="min-vh-100 d-flex flex-column">
     <main class="my-auto">
         <div class="container">
