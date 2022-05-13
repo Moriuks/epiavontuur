@@ -43,7 +43,7 @@ function Working() {
         <div class="container">
             <div class="row">
                 <div class="col-md-6 section-left">
-                    <h1 class="page-title">Estaremos Pronto contigo</h1>
+                    <h1 class="page-title">Volvemos contigo, esperanos en....</h1>
                     <div id="timer" class="bd-cd-timer">
                         <div class="time-card">
                             <span class="time-count" id="days"></span>
