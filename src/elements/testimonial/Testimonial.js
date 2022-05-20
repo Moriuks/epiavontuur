@@ -11,7 +11,7 @@ import Separator from "../separator/Separator";
 const Testimonial = () => {
     return (
         <>
-            <SEO title="Testimonial || Doob - React Business  Template" />
+            <SEO title="Testimonial || SoftwareChido - React Business  Template" />
             
             <Layout>
                 <BreadcrumbOne 

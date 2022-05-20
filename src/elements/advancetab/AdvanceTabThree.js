@@ -45,19 +45,19 @@ const AdvanceTabThree = () => {
                                 <Tab className="col-lg-4">
                                     <div className="tab-button">
                                         <h4 className="title">Market Researce.</h4>
-                                        <p className="description">Use Doob template you can build a corporate website a short time.</p>
+                                        <p className="description">Use SoftwareChido template you can build a corporate website a short time.</p>
                                     </div>   
                                 </Tab>
                                 <Tab className="col-lg-4">
                                     <div className="tab-button">
                                         <h4 className="title">Corporate Report.</h4>
-                                        <p className="description">Use Doob template you can build a corporate website a short time.</p>
+                                        <p className="description">Use SoftwareChido template you can build a corporate website a short time.</p>
                                     </div>   
                                 </Tab>
                                 <Tab className="col-lg-4">
                                     <div className="tab-button">
                                         <h4 className="title">App Development.</h4>
-                                        <p className="description">Use Doob template you can build a corporate website a short time.</p>
+                                        <p className="description">Use SoftwareChido template you can build a corporate website a short time.</p>
                                     </div>   
                                 </Tab>
                             </TabList>

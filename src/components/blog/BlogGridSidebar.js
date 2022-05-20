@@ -13,7 +13,7 @@ import SidebarArchive from './sidebar/SidebarArchive';
 const BlogGridSidebar = () => {
     return (
         <>
-            <SEO title="Blog Grid Sidebar || Doob - React Business  Template" />
+            <SEO title="Blog Grid Sidebar || SoftwareChido - React Business  Template" />
             
             <Layout>
                 <BreadcrumbOne 

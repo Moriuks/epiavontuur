@@ -8,7 +8,7 @@ import BlogProp from './itemProp/BlogProp';
 const BlogGridView = () => {
     return (
         <>
-            <SEO title="Blog List || Doob - React Business  Template" />
+            <SEO title="Blog List || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

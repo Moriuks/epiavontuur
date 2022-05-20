@@ -13,7 +13,7 @@ import SidebarArchive from './sidebar/SidebarArchive';
 const BlogListSidebar = () => {
     return (
         <>
-            <SEO title="Blog List Sidebar || Doob - React Business  Template" />
+            <SEO title="Blog List Sidebar || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

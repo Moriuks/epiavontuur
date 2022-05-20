@@ -11,7 +11,7 @@ import Separator from "../separator/Separator";
 const Tab = () => {
     return (
         <>
-            <SEO title="Tab || Doob - React Business  Template" />
+            <SEO title="Tab || SoftwareChido - React Business  Template" />
             <Layout>
                 
                 <BreadcrumbOne 

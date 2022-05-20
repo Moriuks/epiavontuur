@@ -12,7 +12,7 @@ import Separator from "../separator/Separator";
 const Split = () => {
     return (
         <>
-            <SEO title="Split Text || Doob - React Business  Template" />
+            <SEO title="Split Text || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

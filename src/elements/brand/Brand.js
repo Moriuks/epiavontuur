@@ -12,7 +12,7 @@ import Separator from "../separator/Separator";
 const Brand = () => {
     return (
         <>
-            <SEO title="Brand || Doob - React Business  Template" />
+            <SEO title="Brand || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

@@ -123,7 +123,7 @@ const PopupData2 = [
 const Elements = () => {
     return (
         <>
-            <SEO title="Gallery || Doob - React Business  Template" />
+            <SEO title="Gallery || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

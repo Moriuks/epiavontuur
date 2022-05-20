@@ -7,7 +7,7 @@ import SectionTitle from "../sectionTitle/SectionTitle";
 const Elements = () => {
     return (
         <>
-            <SEO title="Elements || Doob - React Business  Template" />
+            <SEO title="Elements || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

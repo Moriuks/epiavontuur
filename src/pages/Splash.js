@@ -361,7 +361,7 @@ const InnerPages = [
 const Splash = () => {
     return (
         <>
-           <SEO title="Doob" />
+           <SEO title="SoftwareChido" />
            <main className="page-wrapper">
                 <HeaderTopNews />
                 <HeaderOne btnStyle="btn-small round btn-icon" HeaderSTyle="header-not-transparent" />
@@ -373,7 +373,7 @@ const Splash = () => {
                             <div className="col-lg-12">
                                 <div className="inner text-center">
                                     <div className="react-image mb--20">
-                                        <img src="./images/demo/react-badge.png" alt="Doob React" />
+                                        <img src="./images/demo/react-badge.png" alt="SoftwareChido React" />
                                     </div>
                                     <h1 className="title display-two">
                                         Next-gen all-in-one <br />
@@ -404,7 +404,7 @@ const Splash = () => {
                                     textAlign = "text-center"
                                     radiusRounded = ""
                                     subtitle = "All Demo Here"
-                                    title = "Doob All Demo."
+                                    title = "SoftwareChido All Demo."
                                     description = "We create a business and consulting react template with 60+ elements features. <br /> 19+ demo pages, faster loading and well documentated code."
                                 />
                             </div>
@@ -443,7 +443,7 @@ const Splash = () => {
                                     radiusRounded = ""
                                     subtitle = "All Others Pages"
                                     title = "All Others Pages."
-                                    description = "Have a nice inner pages include in doob template."
+                                    description = "Have a nice inner pages include in SoftwareChido template."
                                     
                                 />
                             </div>

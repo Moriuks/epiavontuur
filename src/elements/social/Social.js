@@ -12,7 +12,7 @@ import Separator from "../separator/Separator";
 const Social = () => {
     return (
         <>
-            <SEO title="Social Share || Doob - React Business  Template" />
+            <SEO title="Social Share || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

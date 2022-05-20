@@ -12,7 +12,7 @@ import TeamFour from "./TeamFour";
 const Team = () => {
     return (
         <>
-            <SEO title="Team || Doob - React Business  Template" />
+            <SEO title="Team || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

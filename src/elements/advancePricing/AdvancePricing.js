@@ -8,7 +8,7 @@ import AdvancePricingOne from "./AdvancePricingOne";
 const AdvancePricing = () => {
     return (
         <>
-            <SEO title="Advance Pricing || Doob - React Business  Template" />
+            <SEO title="Advance Pricing || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

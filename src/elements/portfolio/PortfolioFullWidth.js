@@ -8,7 +8,7 @@ import PortfolioOne from "./PortfolioOne";
 const PortfolioFullWidth = () => {
     return (
         <>
-            <SEO title="Portfolio Full Width || Doob - React Business  Template" />
+            <SEO title="Portfolio Full Width || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

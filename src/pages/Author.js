@@ -18,7 +18,7 @@ const Author = ({match: {params: {slug}}}) => {
     const categoryTitle = data[0].author[0];
     return (
         <>
-            <SEO title="Blog Post By Author || Doob" />
+            <SEO title="Blog Post By Author || SoftwareChido" />
 
             <Layout>
                 <BreadcrumbOne 

@@ -8,7 +8,7 @@ import VideoOne from "./VideoOne";
 const Video = () => {
     return (
         <>
-            <SEO title="Video Popup || Doob - React Business  Template" />
+            <SEO title="Video Popup || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

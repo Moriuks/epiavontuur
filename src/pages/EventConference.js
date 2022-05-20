@@ -49,7 +49,7 @@ const EventConference = () => {
                         <div className="row row--30 align-items-center">
                             <div className="order-2 order-lg-1 col-lg-6 mt_md--50 mt_sm--50 mt_lg--30">
                                 <div className="inner text-start">
-                                    <h1 className="title color-white">Doob event conference.</h1>
+                                    <h1 className="title color-white">SoftwareChido event conference.</h1>
                                     <p className="description color-white">We help our clients succeed by creating brand identities, digital experiences, and print materials.</p>
                                     <div className="button-group mt--30 mt_sm--20">
                                         <a className="btn-default btn-medium btn-icon btn-border" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Purchase Now <i className="icon"><FiArrowRight /></i></a>

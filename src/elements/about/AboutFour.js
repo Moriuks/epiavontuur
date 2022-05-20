@@ -28,7 +28,7 @@ const AboutFour = ({image}) => {
                     <div className="col-lg-6 mt_md--40 mt_sm--40">
                         <div className="content">
                             <div className="inner">
-                                <h3 className="title">Doob specializes in <br /> small <strong>Corporate Business.</strong></h3>
+                                <h3 className="title">SoftwareChido specializes in <br /> small <strong>Corporate Business.</strong></h3>
                                 <ul className="feature-list">
                                     <li>
                                         <div className="icon">
@@ -50,7 +50,7 @@ const AboutFour = ({image}) => {
                                     </li>
                                 </ul>
                                 <div className="about-btn mt--30">
-                                    <a className="btn-default" href="#">About Our Doob</a>
+                                    <a className="btn-default" href="#">About Our SoftwareChido</a>
                                 </div>
                             </div>
                         </div>

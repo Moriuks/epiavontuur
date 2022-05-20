@@ -98,7 +98,7 @@ const Marketing = () => {
                                     textAlign = "text-center"
                                     radiusRounded = ""
                                     subtitle = "You can acquire all."
-                                    title = "Acquire new customers with Doob."
+                                    title = "Acquire new customers with SoftwareChido."
                                     description = "There are many variations of passages of Lorem Ipsum available, <br /> but the majority have suffered alteration."
                                 />
                             </div>

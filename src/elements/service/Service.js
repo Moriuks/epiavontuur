@@ -16,7 +16,7 @@ const Service = () => {
     return (
         <>
 
-            <SEO title="Service || Doob - React Business  Template" />
+            <SEO title="Service || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

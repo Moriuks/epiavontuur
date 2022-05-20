@@ -7,22 +7,22 @@ const AccordionOne = ({customStyle}) => {
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="0">
-                    What is Doob ? How does it work?
+                    What is SoftwareChido ? How does it work?
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="0">
-                    <Card.Body>Welcome to Doob React Creative Agency, React Portfolio and Corporate Multi Purpose Template Built With React JS. NO jQuery!. </Card.Body>
+                    <Card.Body>Welcome to SoftwareChido React Creative Agency, React Portfolio and Corporate Multi Purpose Template Built With React JS. NO jQuery!. </Card.Body>
                 </Accordion.Collapse>
             </Card>
 
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="1">
-                    How can I run doob react template?
+                    How can I run SoftwareChido react template?
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="1">
-                    <Card.Body>You can run doob easily. First You'll need to have node and npm on your machine. So Please open your command prompt then check your node -v and npm -v Version. Goes To Your your command prompt: then First: npm install
+                    <Card.Body>You can run SoftwareChido easily. First You'll need to have node and npm on your machine. So Please open your command prompt then check your node -v and npm -v Version. Goes To Your your command prompt: then First: npm install
 
                     At Last: npm run start. By the following way you can be run your project easily.</Card.Body>
                 </Accordion.Collapse>

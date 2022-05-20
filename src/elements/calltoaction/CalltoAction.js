@@ -17,7 +17,7 @@ import Separator from "../separator/Separator";
 const CalltoAction = () => {
     return (
         <>
-            <SEO title="Call To Action || Doob - React Business  Template" />
+            <SEO title="Call To Action || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

@@ -28,7 +28,7 @@ const CopyrightTwo = () => {
                     </div>
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12 mt_md--20 mt_sm--20">
                         <div className="copyright-right text-center text-lg-right">
-                            <p className="copyright-text">Copyright All rights reserved © {new Date().getFullYear()} Doob React Template.</p>
+                            <p className="copyright-text">Copyright All rights reserved © {new Date().getFullYear()} SoftwareChido React Template.</p>
                         </div>
                     </div>
                 </div>

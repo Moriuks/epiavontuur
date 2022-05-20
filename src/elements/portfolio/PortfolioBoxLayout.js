@@ -8,7 +8,7 @@ import PortfolioOne from "./PortfolioOne";
 const PortfolioBoxLayout = () => {
     return (
         <>
-            <SEO title="Portfolio Box Layout || Doob - React Business  Template" />
+            <SEO title="Portfolio Box Layout || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

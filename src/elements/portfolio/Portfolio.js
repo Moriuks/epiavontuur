@@ -11,7 +11,7 @@ const Portfolio = () => {
 
     return (
         <>
-            <SEO title="Portfolio || Doob - React Business  Template" />
+            <SEO title="Portfolio || SoftwareChido - React Business  Template" />
             <Layout>
 
                 <BreadcrumbOne 

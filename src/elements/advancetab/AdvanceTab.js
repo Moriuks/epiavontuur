@@ -12,7 +12,7 @@ import Separator from "../separator/Separator";
 const AdvanceTab = () => {
     return (
         <>
-            <SEO title="Advance Tab || Doob - React Business  Template" />
+            <SEO title="Advance Tab || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

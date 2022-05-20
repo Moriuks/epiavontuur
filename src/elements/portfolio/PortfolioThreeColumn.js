@@ -8,7 +8,7 @@ import PortfolioOne from "./PortfolioOne";
 const PortfolioThreeColumn = () => {
     return (
         <>
-            <SEO title="Portfolio Three Column || Doob - React Business  Template" />
+            <SEO title="Portfolio Three Column || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

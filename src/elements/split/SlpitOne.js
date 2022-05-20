@@ -18,7 +18,7 @@ const SlpitOne = () => {
                                     animateIn="fadeInUp"
                                     animateOut="fadeInOut"
                                     animateOnce={true}>
-                                        <h4 className="title">What is DOOB?</h4>
+                                        <h4 className="title">What is SoftwareChido?</h4>
                                     </ScrollAnimation>
                                     <ScrollAnimation 
                                     animateIn="fadeInUp"

@@ -7,7 +7,7 @@ import BlogPropTwo from './itemProp/BlogPropTwo';
 const BlogListView = () => {
     return (
         <>
-            <SEO title="Blog List View || Doob - React Business  Template" />
+            <SEO title="Blog List View || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."

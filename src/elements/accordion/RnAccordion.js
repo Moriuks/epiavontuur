@@ -9,7 +9,7 @@ import Separator from "../separator/Separator";
 const RnAccordion = () => {
     return (
         <>
-            <SEO title="Accordion || Doob - React Business  Template" />
+            <SEO title="Accordion || SoftwareChido - React Business  Template" />
             <Layout>
                 <BreadcrumbOne 
                     title="The Easiest Way To Create Website <br /> Quick Copy & Make site."
