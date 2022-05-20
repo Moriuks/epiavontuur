@@ -1,23 +1,24 @@
 import React from 'react';
-import { FiActivity, FiCast, FiMap } from "react-icons/fi";
+import { FiMap } from "react-icons/fi";
+import { IoAirplaneOutline, IoBusinessSharp } from "react-icons/io5";
 import {Link} from "react-router-dom";
 import ScrollAnimation from "react-animate-on-scroll";
 
 const ServiceList = [
     {
-        icon: <FiActivity />,
-        title: 'Awarded Design',
-        description: 'There are many variations variations  of passages of Lorem Ipsum available, but the majority have suffered.'
+        icon: <IoBusinessSharp />,
+        title: 'Infraestructura',
+        description: 'Mejora para el desarrollo sostenible y planificado de México así como la calidad de vida de sus habitantes.'
     },
     {
-        icon: <FiCast />,
-        title: 'Design & Creative',
-        description: 'Passages there are many variations variations  of of Lorem Ipsum available, but the majority have suffered.'
+        icon: <IoAirplaneOutline />,
+        title: 'Aviación',
+        description: 'Soluciones integrales adapatables y flexibles, que permiten la toma de decision y operaciones del día a día.'
     },
     {
         icon: <FiMap />,
-        title: 'App Development',
-        description: 'Variations There are many variations  of passages of Lorem Ipsum available, but the majority have suffered.'
+        title: 'Solución Satelital',
+        description: 'Todo con la finalidad de satisfacer a tiempo y en orden, las necesidades de suministro o emergencias.'
     },
 ]
 
