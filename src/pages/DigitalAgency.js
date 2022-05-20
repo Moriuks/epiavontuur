@@ -57,7 +57,7 @@ const DigitalAgency = () => {
                                                 <h1 className="title" dangerouslySetInnerHTML={{__html: data.title}}></h1>
                                                 <p className="description" dangerouslySetInnerHTML={{__html: data.description}}></p>
                                                 <div className="button-group mt--30">
-                                                    <a className="btn-default" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">PURCHASE NOW</a>
+                                                    <a className="btn-default" target="_blank" href="https://www.softwarechido.dev/">contacta NOW</a>
                                                 </div>
                                             </div>
                                         </div>

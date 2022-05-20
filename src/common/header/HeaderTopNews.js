@@ -15,7 +15,7 @@ const HeaderTopNews = () => {
                                     <span className="news-text">Intro price. Get SoftwareChido for Big Sale <strong>-95% off.</strong></span>
                                 </div>
                                 <div className="right-button">
-                                    <a className="btn-read-more" target="_blank" href="https://www.softwarechido.dev/"><span>Purchase Now <FiArrowRight /></span></a>
+                                    <a className="btn-read-more" target="_blank" href="https://www.softwarechido.dev/"><span>contacta Now <FiArrowRight /></span></a>
                                 </div>
                             </div>
                         </div>

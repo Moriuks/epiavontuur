@@ -31,7 +31,7 @@ const PricingThree = () => {
                                     </ul>
                                 </div>
                                 <div className="pricing-footer">
-                                    <a className="btn-default btn-border" href="#pricing">Purchase Now</a>
+                                    <a className="btn-default btn-border" href="#pricing">contacta Now</a>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ const PricingThree = () => {
                                     </ul>
                                 </div>
                                 <div className="pricing-footer">
-                                    <a className="btn-default" href="#pricing">Purchase Now</a>
+                                    <a className="btn-default" href="#pricing">contacta Now</a>
                                 </div>
                             </div>
                         </div>

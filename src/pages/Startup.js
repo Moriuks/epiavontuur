@@ -47,7 +47,7 @@ const Startup = () => {
                                                 <h1 className="title" dangerouslySetInnerHTML={{__html: data.title}}></h1>
                                                 <p className="description" dangerouslySetInnerHTML={{__html: data.description}}></p>
                                                 <div className="button-group mt--30">
-                                                    <a className="btn-default btn-large round" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Get started now</a>
+                                                    <a className="btn-default btn-large round" target="_blank" href="https://www.softwarechido.dev/">Get started now</a>
                                                 </div>
                                             </div>
                                         </div>

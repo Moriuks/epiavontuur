@@ -42,7 +42,7 @@ const Corporate = () => {
                                         <li><span className="icon"><FiCheck /></span> Your teams progress with mobile app.</li>
                                     </ul>
                                     <div className="button-group mt--40 mt_sm--20">
-                                        <button className="btn-default btn-icon" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Purchase Now <i className="icon"><FiArrowRight /></i></button>
+                                        <button className="btn-default btn-icon" target="_blank" href="https://www.softwarechido.dev/">contacta Now <i className="icon"><FiArrowRight /></i></button>
                                     </div>
                                 </div>
                             </div>

@@ -4,8 +4,8 @@ import {Link} from "react-router-dom";
 const Nav = () => {
     return (
         <ul className="mainmenu">
-            <li className="has-droupdown"><Link to="#">Home</Link>
-                <ul className="submenu">
+            <li className="has-droupdown"><Link to="/business-consulting-2">Home</Link>
+                {/* <ul className="submenu">
                     <li><Link to="/business-consulting">Business Consulting</Link></li>
                     <li><Link to="/business-consulting-2">Business Consulting 02</Link></li>
                     <li><Link to="/corporate">Corporate</Link></li>
@@ -24,7 +24,7 @@ const Nav = () => {
                     <li><Link to="/international-consulting">International Consulting</Link></li>
                     <li><Link to="/startup">Startup</Link></li>
                     <li><Link to="/web-agency">Web Agency</Link></li>
-                </ul>
+                </ul> */}
             </li>
             
             <li><Link to="/about-us">About</Link></li>

@@ -34,7 +34,7 @@ const Business = () => {
                                     <h1 className="title theme-gradient">Trending <br />Business</h1>
                                     <p className="description">We help our clients succeed by creating brand identities, digital experiences, and print materials.</p>
                                     <div className="button-group mt--30 mt_sm--20">
-                                        <a className="btn-default btn-medium btn-icon" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Purchase Now <i className="icon"><FiArrowRight /></i></a>
+                                        <a className="btn-default btn-medium btn-icon" target="_blank" href="https://www.softwarechido.dev/">contacta Now <i className="icon"><FiArrowRight /></i></a>
                                     </div>
                                 </div>
                             </div>

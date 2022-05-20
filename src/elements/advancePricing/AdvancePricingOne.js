@@ -14,7 +14,7 @@ const AdvancePricingOne = () => {
                                 <span className="price-amount">$129 <sup>/mo</sup></span>
                             </div>
                             <div className="pricing-btn-group">
-                                <button className="btn-default">Purchase Now</button>
+                                <button className="btn-default">contacta Now</button>
                                 <button className="btn-default btn-border">Upgrade</button>
                             </div>
                             <div className="rating">

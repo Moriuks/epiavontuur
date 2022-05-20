@@ -43,7 +43,7 @@ const HeaderTwo = ({btnStyle, HeaderSTyle}) => {
                         <div className="col-lg-3 col-md-6 col-8">
                             <div className="header-right">
                                 <div className="header-btn">
-                                    <a className={`btn-default ${btnStyle}`} target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">BUY NOW</a>
+                                    <a className={`btn-default ${btnStyle}`} target="_blank" href="https://www.softwarechido.dev/">BUY NOW</a>
                                 </div>
                                 <div className="mobile-menu-bar ml--5 d-block d-lg-none">
                                     <div className="hamberger">

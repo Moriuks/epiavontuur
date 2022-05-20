@@ -107,7 +107,7 @@ const TravelAgency = () => {
                                                 <h1 className="title" dangerouslySetInnerHTML={{__html: data.title}}></h1>
                                                 <p className="description" dangerouslySetInnerHTML={{__html: data.description}}></p>
                                                 <div className="button-group mt--30">
-                                                    <Link className="btn-default" to="#">PURCHASE NOW</Link>
+                                                    <Link className="btn-default" to="#">contacta NOW</Link>
                                                 </div>
                                             </div>
                                         </div>

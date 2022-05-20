@@ -40,7 +40,7 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
 
                                 {/* ---------------     BUY BUTTON ----------------------
                                 <div className="header-btn">
-                                    <a className={`btn-default ${btnStyle}`} target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">BUY NOW</a>
+                                    <a className={`btn-default ${btnStyle}`} target="_blank" href="https://www.softwarechido.dev/">BUY NOW</a>
                                 </div>
 
                                 -----------------   BUY BUTTON  ----------------------- */}
