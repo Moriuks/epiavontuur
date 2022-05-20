@@ -21,15 +21,15 @@ const AboutUs = () => {
                 <HeaderOne btnStyle="btn-small round btn-icon" HeaderSTyle="header-transparent" />
 
                 {/* Start Slider Area  */}
-                <div className="slider-area slider-style-1 height-850 bg_image" data-black-overlay="7" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/bg/bg-image-12.jpg)`}}>
+                <div className="slider-area slider-style-1 height-850 bg_image" data-black-overlay="7" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/about/office-1.jpg)`}}>
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="inner pt--80 text-center">
                                     <div>
-                                        <h3 className="rn-sub-badge"><span className="theme-gradient">Our Company's About Details.</span></h3>
+                                        <h3 className="rn-sub-badge"><span className="theme-gradient">Detalles de nuestra empresas.</span></h3>
                                     </div>
-                                    <h1 className="title display-one">We are a Corporate <br /> Business Agency.</h1>
+                                    <h1 className="title display-one">Somo una empresa que intrega servicios en la industria <br /> energetica.</h1>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@ const AboutUs = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="content">
-                                    <h3 className="title">We are creative digital agency working for our company brands.</h3>
+                                    <h3 className="title">Somos una empresa creativa que trabaja para las marcas de nuestra empresa.</h3>
                                 </div>
                             </div>
                             <div className="col-lg-6">
@@ -80,9 +80,9 @@ const AboutUs = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "What we can do for you"
-                                    title = "Services provide for you."
-                                    description = "There are many variations of passages of Lorem Ipsum available, <br /> but the majority have suffered alteration."
+                                    subtitle = "Con lo que te podemos ayudar"
+                                    title = "Soluciones que proporcionamos."
+                                    description = "Contamos con diferentes soluciones, <br /> y una de ellas para lo que necesitas."
                                     />
                             </div>
                         </div>
