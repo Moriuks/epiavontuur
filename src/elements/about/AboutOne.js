@@ -15,12 +15,12 @@ const AboutOne = () => {
                     <div className="col-lg-7 mt_md--40 mt_sm--40">
                         <div className="content">
                             <div className="section-title">
-                                <h2 className="title">Unique Business <br /> {" "}
+                                <h2 className="title">EPI Avontuur <br /> {" "}
                                     <Typed className="theme-gradient"
                                         strings={[
-                                            "Consulting.",
-                                            "Finance.",
-                                            "Agency.",
+                                            "Consultaría.",
+                                            "Infraestuctura.",
+                                            "Agencia.",
                                         ]}
                                         typeSpeed={80}
                                         backSpeed={5}

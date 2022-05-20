@@ -36,13 +36,13 @@ const BusinessConsulting2 = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="inner text-center">
-                                    <span className="subtitle">DIGITAL CONSULTING AGENCY</span>
-                                    <h1 className="title theme-gradient display-two">Unique Business <br /> {" "}
+                                    <span className="subtitle">Una Empresa neutral en carbono</span>
+                                    <h1 className="title theme-gradient display-two">Epi Avontuur <br /> {" "}
                                         <Typed
                                             strings={[
-                                                "Consulting.",
-                                                "Finance.",
-                                                "Agency.",
+                                                "Consultaría.",
+                                                "Infraestuctura.",
+                                                "Agencia."
                                             ]}
                                             typeSpeed={80}
                                             backSpeed={5}
