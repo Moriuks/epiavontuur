@@ -4,23 +4,23 @@ import ScrollAnimation from "react-animate-on-scroll";
 const TimelineData = [
     {
         id: "1",
-        title: "Knowledge",
-        description: "Present all available features in Essentials.",
+        title: "2016",
+        description: "Inicio de EpiAventoor.",
     },
     {
         id: "2",
-        title: "Working",
-        description: "All Feature available features in Essentials.",
+        title: "2019",
+        description: "Creación de alianzas estratégicas.",
     },
     {
         id: "3",
-        title: "Solution",
-        description: "Popular Feature available features in Essentials.",
+        title: "2020",
+        description: "Apertura de soluciones satelitales.",
     },
     {
         id: "4",
-        title: "Process",
-        description: "Latest Feature available features in Essentials.",
+        title: "2022",
+        description: "Haciendo historia.",
     },
 ]
 
