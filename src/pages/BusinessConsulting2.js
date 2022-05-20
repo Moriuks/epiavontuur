@@ -25,7 +25,7 @@ var BlogListData = BlogClassicData.slice(0, 3);
 const BusinessConsulting2 = () => {
     return (
         <>
-            <SEO title="Business Consulting 02" />
+            <SEO title="EpiAVN" />
             <main className="page-wrapper">
                 <HeaderTopNews />
                 <HeaderTwo btnStyle="round" HeaderSTyle="header-not-transparent" />
