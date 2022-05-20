@@ -15,8 +15,8 @@ const HeaderTopBar = () => {
                     <div className="col-lg-8 col-md-12 col-12">
                         <div className="header-right">
                             <div className="address-content">
-                                <p><FiMapPin /><span>Alabama, USA</span></p>
-                                <p><FiPhone /><span><a href="#">+06 58 49 99 56</a></span></p>
+                                <p><FiMapPin /><span>CDMX, MX</span></p>
+                                <p><FiPhone /><span><a href="#">55 7548 0076</a></span></p>
                             </div>
                             <div className="social-icon-wrapper">
                                 <ul className="social-icon social-default icon-naked">

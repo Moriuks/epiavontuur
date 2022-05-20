@@ -27,7 +27,7 @@ const BusinessConsulting2 = () => {
         <>
             <SEO title="EpiAVN" />
             <main className="page-wrapper">
-                <HeaderTopNews />
+                {/* <HeaderTopNews /> */}
                 <HeaderTwo btnStyle="round" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider Area  */}
