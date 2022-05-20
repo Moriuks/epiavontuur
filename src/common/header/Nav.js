@@ -81,6 +81,39 @@ const Nav = () => {
                 </div>
             </li>
 
+            <li className="with-megamenu"><Link to="#">Solutions</Link>
+                <div className="rn-megamenu">
+                    <div className="wrapper">
+                        <div className="row row--0">
+                            <div className="col-lg-3 single-mega-item">
+                                <ul className="mega-menu-item">
+                                    <li><Link to="/#">Infraestructura</Link></li>
+                                    <li><Link to="/#">Helipuertos</Link></li>
+                                    <li><Link to="/#">Hospitales</Link></li>
+                                    <li><Link to="/#">Estadios</Link></li>
+                                </ul>
+                            </div>
+                            <div className="col-lg-3 single-mega-item">
+                                <ul className="mega-menu-item">
+                                    <li><Link to="/#">Aviación</Link></li>
+                                </ul>
+                            </div>
+                            <div className="col-lg-3 single-mega-item">
+                                <ul className="mega-menu-item">
+                                    <li><Link to="/#">Solución Satelital</Link></li>
+                                </ul>
+                            </div>
+                            <div className="col-lg-3 single-mega-item">
+                                <ul className="mega-menu-item">
+                                    <li><Link to="/#">Equipamiento y Tecnología<span className="rn-badge-card">Proximamente</span></Link></li>
+                                    <li><Link to="/#">otros<span className="rn-badge-card">Proximamente</span></Link></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
             <li className="has-droupdown"><Link to="#">Blog</Link>
                 <ul className="submenu">
                     <li><Link to="/blog-grid">Blog Grid</Link></li>
