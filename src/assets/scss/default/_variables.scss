@@ -1,15 +1,19 @@
 /*-- Variables --*/
+$primary:#112D4E;
+$secondary: #1AD0CA;
+$tertiary: #DDEAF8;
+
 :root {
     //Themes colors
-    --color-primary: #059DFF;
+    --color-primary: #112D4E;
     --color-primary-rgba: rgb(5, 157, 255);
     --color-primary-alt: #059DFF;
     --color-primary-light: #059DFF;
     --color-primary-lightest: #059DFF;
-    --color-secondary: #FB5343;
-    --color-tertiary: #6549D5;
+    --color-secondary: #1AD0CA;
+    --color-tertiary: #DDEAF8;
     --color-tertiary-alt: #6549D5;
-    --color-pink: #E33FA1;
+    --color-pink: #112D4E;
     --color-light-green: #36C6F0;
     --color-primary-darker: #011827;
     --color-tertiary-darker: #150b40;
