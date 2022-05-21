@@ -2,7 +2,7 @@
   "name": "SoftwareChido",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SoftwareChido.rainbowit.net/",
+  "homepage": "https://SoftwareChido.dev/",
   "dependencies": {
     "@babel/eslint-parser": "^7.5.4",
     "@testing-library/jest-dom": "^5.12.0",
