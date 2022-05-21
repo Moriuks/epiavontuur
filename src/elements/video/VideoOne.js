@@ -4,7 +4,7 @@ import { FiPlay } from "react-icons/fi";
 
 const PopupContent =  {
     image: "./images/portfolio/portfolio-04.jpg",
-    popupLink: [ "https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes"],
+    popupLink: [ "https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup"],
 }
 
 

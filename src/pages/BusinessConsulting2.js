@@ -50,10 +50,10 @@ const BusinessConsulting2 = () => {
                                             loop
                                         />
                                     </h1>
-                                    <p className="description">We help our clients succeed by creating brand identities, digital experiences, and print materials.</p>
+                                    <p className="description">Ayudamos a nuestros clientes a tener éxito mediante la integración de soluciones de interconectividad y construcción.</p>
                                     <div className="button-group">
-                                        <a className="btn-default btn-medium round btn-icon" target="_blank" href="https://www.softwarechido.dev/">contacta Now <i className="icon"><FiArrowRight /></i></a>
-                                        <Link className="btn-default btn-medium btn-border round btn-icon" to="#">Contact Us <i className="icon"><FiArrowRight /></i></Link>
+                                        <a className="btn-default btn-medium round btn-icon" target="_blank" href="https://www.softwarechido.dev/">contactar <i className="icon"><FiArrowRight /></i></a>
+                                        {/* <Link className="btn-default btn-medium btn-border round btn-icon" to="#">Contact Us <i className="icon"><FiArrowRight /></i></Link> */}
                                     </div>
                                 </div>
                             </div>
@@ -77,8 +77,8 @@ const BusinessConsulting2 = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "What we can do for you"
-                                    title = "Services provide for you."
+                                    subtitle = "Con lo que te podemos ayudar"
+                                    title = "Servicios con los que contamos."
                                     description = "There are many variations of passages of Lorem Ipsum available, <br /> but the majority have suffered alteration."
                                     />
                             </div>
@@ -102,22 +102,22 @@ const BusinessConsulting2 = () => {
 
 
                  {/* Start Team Area  */}
-                 <div className="rwt-team-area rn-section-gap">
+                 {/* <div className="rwt-team-area rn-section-gap">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                     <SectionTitle
                                         textAlign = "text-center"
                                         radiusRounded = ""
-                                        subtitle = "Our Experts."
-                                        title = "Our Company Experts."
-                                        description = "We provide company and finance service for <br /> startups and company business."
+                                        subtitle = "Los Expertos."
+                                        title = "Nuestro equipo."
+                                        description = "Brindamos servicios de integración y tecnología para <br /> empresas emergentes y negocios de empresas."
                                     />
                             </div>
                         </div>
                         <TeamTwo column="col-lg-4 col-md-6 col-12" teamStyle="team-style-default style-two" />
                     </div>
-                </div>
+                </div> */}
                 {/* End Team Area  */}
                 <Separator /> 
                 {/* Start Mission Area   */}
@@ -134,9 +134,9 @@ const BusinessConsulting2 = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "Client Feedback"
-                                    title = "Our Awesome Client."
-                                    description = "We provide company and finance service for <br /> startups and company business."
+                                    subtitle = "Lo que dicen nuestros clientes"
+                                    title = "Nuestros clientes."
+                                    description = "Brindamos servicios intregrales y de monitoreo para <br /> empresas emergentes y negocios de empresas."
                                 />
                             </div>
                         </div>
@@ -153,9 +153,9 @@ const BusinessConsulting2 = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "Latests News"
-                                    title = "Our Latest News."
-                                    description = "We provide company and finance service for <br /> startups and company business."
+                                    subtitle = "historias de exito"
+                                    title = "Nuestras hisorias."
+                                    description = "Brindamos servicios intregrales y de monitoreo para <br /> empresas emergentes y negocios de empresas."
                                 />
                             </div>
                         </div>

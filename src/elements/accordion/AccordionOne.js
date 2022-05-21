@@ -7,46 +7,44 @@ const AccordionOne = ({customStyle}) => {
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="0">
-                    What is SoftwareChido ? How does it work?
+                    ¿Qué significa Epi Avoontur ? 
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="0">
-                    <Card.Body>Welcome to SoftwareChido React Creative Agency, React Portfolio and Corporate Multi Purpose Template Built With React JS. NO jQuery!. </Card.Body>
+                    <Card.Body>Epi Avontuur es pionera en soluciones integrales con impacto ambiental!. </Card.Body>
                 </Accordion.Collapse>
             </Card>
 
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="1">
-                    How can I run SoftwareChido react template?
+                    ¿Qué soluciones proporciona Epi Avoontur ? 
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="1">
-                    <Card.Body>You can run SoftwareChido easily. First You'll need to have node and npm on your machine. So Please open your command prompt then check your node -v and npm -v Version. Goes To Your your command prompt: then First: npm install
-
-                    At Last: npm run start. By the following way you can be run your project easily.</Card.Body>
+                    <Card.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet finibus lorem eu varius. Nam hendrerit elit ac massa pretium, sed ultrices lorem euismod. Maecenas varius semper dictum.</Card.Body>
                 </Accordion.Collapse>
             </Card>
 
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="2">
-                    How can I get the customer support?
+                    ¿Cómo ayudamos a reducir la huella de carbono ? 
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="2">
-                    <Card.Body>After purchasing the product need you any support you can be share with us with sending mail to rainbowit10@gmail.com.</Card.Body>
+                    <Card.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet finibus lorem eu varius. Nam hendrerit elit ac massa pretium, sed ultrices lorem euismod. Maecenas varius semper dictum..</Card.Body>
                 </Accordion.Collapse>
             </Card>
 
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="3">
-                    Can I get update regularly and For how long do I get updates?
+                    ¿Cómo ayudamos a reducir la huella de carbono ? 
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="3">
-                    <Card.Body>Yes, We will get update the Trydo. And you can get it any time. Next time we will comes with more feature. You can be get update for unlimited times. Our dedicated team works for update.</Card.Body>
+                    <Card.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet finibus lorem eu varius. Nam hendrerit elit ac massa pretium, sed ultrices lorem euismod. Maecenas varius semper dictum.</Card.Body>
                 </Accordion.Collapse>
             </Card>
 

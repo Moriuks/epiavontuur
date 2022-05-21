@@ -27,7 +27,7 @@ const PopupData = [
         id: "01",
         image: "./images/bg/bg-image-4.jpg",
         popupLink: [
-            'https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes',
+            'https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup',
         ],
     }
 ]

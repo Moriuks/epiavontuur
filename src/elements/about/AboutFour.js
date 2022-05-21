@@ -8,7 +8,7 @@ const PopupData = [
         id: "01",
         image: "./images/bg/bg-image-4.jpg",
         popupLink: [
-            'https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes',
+            'https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup',
         ],
     }
 ]
@@ -28,15 +28,15 @@ const AboutFour = ({image}) => {
                     <div className="col-lg-6 mt_md--40 mt_sm--40">
                         <div className="content">
                             <div className="inner">
-                                <h3 className="title">SoftwareChido specializes in <br /> small <strong>Corporate Business.</strong></h3>
+                                <h3 className="title">Epi Avontuur se especializa en <br /> pequeños y grandes <strong>Negocios.</strong></h3>
                                 <ul className="feature-list">
                                     <li>
                                         <div className="icon">
                                             <FiCheck />
                                         </div>
                                         <div className="title-wrapper">
-                                            <h4 className="title">A good traveler has no fixed plans</h4>
-                                            <p className="text">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</p>
+                                            <h4 className="title">La sostenibilidad es una parte integral y fundamental de nuestro negocio.</h4>
+                                            <p className="text">Es nuestra prioridad alentar a nuestros clientes, proveedores y todos los socios comerciales a hacer lo mismo.</p>
                                         </div>
                                     </li>
                                     <li>
@@ -44,13 +44,13 @@ const AboutFour = ({image}) => {
                                             <FiCheck />
                                         </div>
                                         <div className="title-wrapper">
-                                            <h4 className="title">A good traveler has no fixed plans</h4>
-                                            <p className="text">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor incididunt labore.</p>
+                                            <h4 className="title">Expertos en crear y mantener relaciones</h4>
+                                            <p className="text">Somos expertos apasionados y comprometidos con la entrega de soluciones y servicios innovadores, reduciendo el riesgo y creando valor..</p>
                                         </div>
                                     </li>
                                 </ul>
                                 <div className="about-btn mt--30">
-                                    <a className="btn-default" href="#">About Our SoftwareChido</a>
+                                    <a className="btn-default" href="#">Sobre EPIAVN</a>
                                 </div>
                             </div>
                         </div>

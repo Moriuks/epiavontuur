@@ -43,10 +43,10 @@ const PopupData = [
         image: "./images/portfolio/portfolio-01.jpg",
         popupLink: [
             './images/portfolio/portfolio-01.jpg',
-            'https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes',
+            'https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup',
             './images/portfolio/portfolio-03.jpg',
             './images/portfolio/portfolio-04.jpg',
-            'https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes',
+            'https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup',
             './images/portfolio/portfolio-05.jpg',
         ],
     },
@@ -54,7 +54,7 @@ const PopupData = [
         id: "02",
         image: "./images/portfolio/portfolio-02.jpg",
         popupLink: [
-            'https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes',
+            'https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup',
         ],
     },
     {
@@ -75,7 +75,7 @@ const PopupData = [
         id: "05",
         image: "./images/portfolio/portfolio-04.jpg",
         popupLink: [
-            'https://www.youtube.com/watch?v=ctsT5Y-InqE&ab_channel=Rainbow-Themes',
+            'https://www.youtube.com/watch?v=8-NK1ZRgZbE&ab_channel=EPIGroup',
         ],
     },
     {

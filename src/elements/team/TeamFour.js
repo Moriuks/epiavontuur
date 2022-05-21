@@ -6,9 +6,9 @@ import ScrollAnimation from "react-animate-on-scroll";
 const teamData = [
     {
         image: 'team-dark-01',
-        name: 'Sr Janen Sara',
+        name: 'Oscar zepeda',
         designation: 'Sr Product Designer',
-        location: 'CO Miego, AD, USA', 
+        location: 'CDMX, MX', 
         description: 'Yes, I am a product designer. I have a passion for product design.',
         socialNetwork: [
             {
@@ -28,9 +28,9 @@ const teamData = [
     },
     {
         image: 'team-dark-02',
-        name: 'Corporate Jane',
+        name: 'Fercho Mena',
         designation: 'Manager',
-        location: 'Bangladesh', 
+        location: 'CDMX', 
         description: 'Yes, I am a product designer. I have a passion for product design.',
         socialNetwork: [
             {
@@ -50,9 +50,9 @@ const teamData = [
     },
     {
         image: 'team-dark-03',
-        name: 'Jara Saraif',
+        name: 'Luis Mora',
         designation: 'Software Developer',
-        location: 'Poland', 
+        location: 'MTY, MX', 
         description: 'Yes, I am a product designer. I have a passion for product design.',
         socialNetwork: [
             {
@@ -72,9 +72,9 @@ const teamData = [
     },
     {
         image: 'team-dark-04',
-        name: 'Afanan Sifa',
+        name: 'Juan Perez',
         designation: 'Accounts Manager',
-        location: 'Poland', 
+        location: 'MTY, MX', 
         description: 'Yes, I am a product designer. I have a passion for product design.',
         socialNetwork: [
             {

@@ -5,17 +5,17 @@ import ScrollAnimation from "react-animate-on-scroll";
 const ServiceList = [
     {
         image: '/images/service/galery-image-01.png',
-        title: 'Awarded Design',
+        title: 'Construcción',
         description: 'There are many variations variats.'
     },
     {
         image: '/images/service/galery-image-02.png',
-        title: 'Design & Creative',
+        title: 'Espacios publicos',
         description: 'Passages there are many variatin.'
     },
     {
         image: '/images/service/galery-image-03.png',
-        title: 'App Development',
+        title: 'soluciones satelitales',
         description: 'Variations There are many of pass.'
     }
 ]

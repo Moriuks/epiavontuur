@@ -109,11 +109,11 @@ const AboutUs = () => {
                 <AboutFour image="./images/about/contact-image.jpg" />
                 
                 {/* Start Elements Area  */}
-                <div className="rwt-counterup-area pb--100">
+                {/* <div className="rwt-counterup-area pb--100">
                     <div className="container mt_dec--30">
                         <CounterUpFour column="col-lg-3 col-md-6 col-sm-6 col-12" counterStyle="counter-style-4" textALign="text-center" />   
                     </div>
-                </div>
+                </div> */}
                 {/* End Elements Area  */}
 
                 <Separator />
@@ -126,8 +126,8 @@ const AboutUs = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "Our Corporate Team."
-                                    title = "Corporate Team Member."
+                                    subtitle = "Nuestro Equipo."
+                                    title = "Miembros de EpiAVN."
                                     description = ""
                                 />
                             </div>

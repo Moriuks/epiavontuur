@@ -3,7 +3,7 @@ import emailjs from 'emailjs-com';
 
 const Result = () => {
     return (
-        <p className="success-message">Your Message has been successfully sent. I will contact you soon.</p>
+        <p className="success-message">Se ha enviado tu mensaje. Nos pondremos en contacto contigo.</p>
     )
 }
 
@@ -40,7 +40,7 @@ function ContactForm({props , formStyle}) {
                 <input 
                 type="text"
                 name="fullname"
-                placeholder="Your Name"
+                placeholder="Nombre"
                 required
                 />
             </div>
@@ -49,7 +49,7 @@ function ContactForm({props , formStyle}) {
                 <input 
                 type="email"
                 name="email"
-                placeholder="Email Address"
+                placeholder="Email"
                 required
                 />
             </div>
@@ -58,7 +58,7 @@ function ContactForm({props , formStyle}) {
                 <input 
                 type="text"
                 name="phone"
-                placeholder="Phone Number"
+                placeholder="Celular"
                 required
                 />
             </div>
@@ -68,7 +68,7 @@ function ContactForm({props , formStyle}) {
                 <input 
                 type="text"
                 name="subject"
-                placeholder="Subject"
+                placeholder="Motivo"
                 required
                 />
             </div>
@@ -76,14 +76,14 @@ function ContactForm({props , formStyle}) {
             <div className="form-group">
                 <textarea 
                 name="message"
-                placeholder="Your Message"
+                placeholder="Inquietud"
                 required
                 >
                 </textarea>
             </div>
 
             <div className="form-group">
-                <button className="btn-default btn-large">Submit Now</button>
+                <button className="btn-default btn-large">Enviar</button>
             </div> 
 
             <div className="form-group">

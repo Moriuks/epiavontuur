@@ -11,12 +11,12 @@ const mission = () => {
                 <div className="row row--30">
                     <div className="col-lg-6">
                         <div className="mission-title">
-                            <h2 className="title">Unique Mission <br /> {" "}
+                            <h2 className="title">Mission <br /> {" "}
                                 <Typed className="theme-gradient"
                                     strings={[
-                                        "Consulting.",
-                                        "Vission.",
-                                        "Agency.",
+                                        "Consultoria.",
+                                        "Sostenibilidad.",
+                                        "Soluciones.",
                                     ]}
                                     typeSpeed={80}
                                     backSpeed={5}
@@ -29,7 +29,7 @@ const mission = () => {
                             <p>Consectetur adipisicing elit. Quia quaerat dolore laboriosam ea minus dignissimos, laudantium odit officia soluta, et deleniti fugit deserunt saepe, velit sapiente obcaecati? Vitae, iusto delectus?</p>
 
                             <div className="read-more-btn mt--50">
-                                <Link className="btn-default btn-icon" to="#">Learn More <i className="icon"><FiArrowRight /></i></Link>
+                                <Link className="btn-default btn-icon" to="#">Conocer más <i className="icon"><FiArrowRight /></i></Link>
                             </div>
                         </div>
                     </div>

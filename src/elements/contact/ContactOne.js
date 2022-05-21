@@ -16,7 +16,7 @@ const ContactOne = () => {
                                         <FiHeadphones />
                                     </div>
                                     <div className="inner">
-                                        <h4 className="title">Contact Phone Number</h4>
+                                        <h4 className="title">Teléfonos</h4>
                                         <p><a href="tel:+444 555 666 777">+444 555 666 777</a></p>
                                         <p><a href="tel:+222 222 222 333">+222 222 222 333</a></p>
                                     </div>
@@ -29,9 +29,9 @@ const ContactOne = () => {
                                         <FiMail />
                                     </div>
                                     <div className="inner">
-                                        <h4 className="title">Our Email Address</h4>
+                                        <h4 className="title">Correo</h4>
                                         <p><a href="mailto:admin@gmail.com">admin@gmail.com</a></p>
-                                        <p><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+                                        <p><a href="mailto:example@gmail.com">epi@gmail.com</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -42,8 +42,8 @@ const ContactOne = () => {
                                         <FiMapPin />
                                     </div>
                                     <div className="inner">
-                                        <h4 className="title">Our Location</h4>
-                                        <p>5678 Bangla Main Road, cities 580 <br /> GBnagla, example 54786</p>
+                                        <h4 className="title">Oficinas</h4>
+                                        <p>Guillermo González Camarena #1600, 3C. <br />Centro Ciudad Santa Fe, Álvaro Obregón, Mexico City</p>
                                     </div>
                                 </div>
                             </div>

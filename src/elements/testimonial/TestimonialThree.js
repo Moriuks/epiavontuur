@@ -4,23 +4,23 @@ import { slickDot } from "../../utils/script";
 
 const TestimonialData = [
     {
-        form: "Poland",
+        form: "Monterrey",
         description: "What I am primarily looking for with new projects is a fit on both a visual and aesthetic level as well as on a personal level with the client.",
-        name: "John Due",
+        name: "Luis Mora",
         subtitle: "App Developer",
         image: "testimonial-dark-01"
     },
     {
-        form: "Germany",
+        form: "Puebla",
         description: "What I am primarily looking for with new projects is a fit on both a visual and aesthetic level as well as on a personal level with the client.",
-        name: "John Due",
+        name: "Mylo",
         subtitle: "App Developer",
         image: "testimonial-dark-02"
     },
     {
         form: "USA",
         description: "What I am primarily looking for with new projects is a fit on both a visual and aesthetic level as well as on a personal level with the client.",
-        name: "Janen",
+        name: "Beto Mora",
         subtitle: "App Developer",
         image: "testimonial-dark-03"
     },

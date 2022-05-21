@@ -87,26 +87,26 @@ const Nav = () => {
                         <div className="row row--0">
                             <div className="col-lg-3 single-mega-item">
                                 <ul className="mega-menu-item">
-                                    <li><Link to="/#">Infraestructura</Link></li>
-                                    <li><Link to="/#">Helipuertos</Link></li>
-                                    <li><Link to="/#">Hospitales</Link></li>
-                                    <li><Link to="/#">Estadios</Link></li>
+                                    <li><Link to="/business-consulting-2">Infraestructura</Link></li>
+                                    <li><Link to="/business-consulting-2">Helipuertos</Link></li>
+                                    <li><Link to="//business-consulting-2">Hospitales</Link></li>
+                                    <li><Link to="/business-consulting-2">Estadios</Link></li>
                                 </ul>
                             </div>
                             <div className="col-lg-3 single-mega-item">
                                 <ul className="mega-menu-item">
-                                    <li><Link to="/#">Aviación</Link></li>
+                                    <li><Link to="/business-consulting-2">Aviación</Link></li>
                                 </ul>
                             </div>
                             <div className="col-lg-3 single-mega-item">
                                 <ul className="mega-menu-item">
-                                    <li><Link to="/#">Solución Satelital</Link></li>
+                                    <li><Link to="/business-consulting-2">Solución Satelital</Link></li>
                                 </ul>
                             </div>
                             <div className="col-lg-3 single-mega-item">
                                 <ul className="mega-menu-item">
-                                    <li><Link to="/#">Equipamiento y Tecnología<span className="rn-badge-card">Proximamente</span></Link></li>
-                                    <li><Link to="/#">otros<span className="rn-badge-card">Proximamente</span></Link></li>
+                                    <li><Link to="/business-consulting-2">Equipamiento y Tecnología<span className="rn-badge-card">Proximamente</span></Link></li>
+                                    <li><Link to="/business-consulting-2">otros<span className="rn-badge-card">Proximamente</span></Link></li>
                                 </ul>
                             </div>
                         </div>
@@ -114,14 +114,14 @@ const Nav = () => {
                 </div>
             </li>
 
-            <li className="has-droupdown"><Link to="#">Blog</Link>
+            {/* <li className="has-droupdown"><Link to="#">Blog</Link>
                 <ul className="submenu">
                     <li><Link to="/blog-grid">Blog Grid</Link></li>
                     <li><Link to="/blog-grid-sidebar">Blog Grid Sidebar</Link></li>
                     <li><Link to="/blog-list-view">Blog List View</Link></li>
                     <li><Link to="/blog-list-sidebar">Blog List View Sidebar</Link></li>
                 </ul>
-            </li>
+            </li> */}
 
             {/* <li className="has-droupdown"><Link to="#">Portfolio</Link>
                 <ul className="submenu">
