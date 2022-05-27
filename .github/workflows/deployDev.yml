@@ -19,7 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - run: echo Hello, world!
-      - run: npm install
+      - run: npm i -g yarn
+      - run: yarn install
       - run: CI=false npm run build
       # - run: npm test
       - uses: jakejarvis/s3-sync-action@master
