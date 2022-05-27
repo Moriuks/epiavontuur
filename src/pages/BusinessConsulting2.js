@@ -52,7 +52,7 @@ const BusinessConsulting2 = () => {
                                     </h1>
                                     <p className="description">Ayudamos a nuestros clientes a tener éxito mediante la integración de soluciones de interconectividad y construcción.</p>
                                     <div className="button-group">
-                                        <a className="btn-default btn-medium round btn-icon" target="_blank" href="https://www.softwarechido.dev/">contactar <i className="icon"><FiArrowRight /></i></a>
+                                        <a className="btn-default btn-medium round btn-icon" target="_blank" href="/contact">contactar <i className="icon"><FiArrowRight /></i></a>
                                         {/* <Link className="btn-default btn-medium btn-border round btn-icon" to="#">Contact Us <i className="icon"><FiArrowRight /></i></Link> */}
                                     </div>
                                 </div>
