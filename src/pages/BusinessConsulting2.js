@@ -9,6 +9,7 @@ import FooterTwo from '../common/footer/FooterTwo';
 import Copyright from '../common/footer/Copyright';
 import AboutOne from '../elements/about/AboutOne';
 import ServiceFive from '../elements/service/ServiceFive';
+import ServiceTwo from '../elements/service/ServiceTwo';
 import CalltoActionFive from '../elements/calltoaction/CalltoActionFive';
 import TeamTwo from '../elements/team/TeamTwo';
 import TestimonialThree from "../elements/testimonial/TestimonialThree";
@@ -79,11 +80,11 @@ const BusinessConsulting2 = () => {
                                     radiusRounded = ""
                                     subtitle = "Con lo que te podemos ayudar"
                                     title = "Servicios con los que contamos."
-                                    description = "There are many variations of passages of Lorem Ipsum available, <br /> but the majority have suffered alteration."
+                                    description = "Ser respetuoso al escuchar atentamente a nuestros clientes para <br /> comprender sus necesidades y desafíos en"
                                     />
                             </div>
                         </div>
-                        <ServiceFive 
+                        <ServiceTwo 
                             serviceStyle = "gallery-style"
                             textAlign = "text-start"
                         />
