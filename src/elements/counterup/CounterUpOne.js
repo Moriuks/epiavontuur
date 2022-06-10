@@ -6,20 +6,20 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const Data = [
     {
-        countNum : 199,
-        countTitle: 'Happy Clients.',
+        countNum : 30,
+        countTitle: 'Años operando.',
     },
     {
-        countNum : 575,
-        countTitle: 'Employees',
+        countNum : 30,
+        countTitle: 'Clientes',
     },
     {
-        countNum : 69,
-        countTitle: 'Useful Programs',
+        countNum : 250,
+        countTitle: 'Contratos',
     },
     {
-        countNum : 500,
-        countTitle: 'Useful Programs',
+        countNum : 200,
+        countTitle: 'USD Facturados',
     },
 ];
 const CounterUpOne = ({textALign, counterStyle, column}) => {
