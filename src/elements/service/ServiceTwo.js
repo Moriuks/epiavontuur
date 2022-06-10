@@ -6,22 +6,22 @@ const ServiceList = [
     {
         image: '/images/service/galery-image-01.svg',
         title: 'Infraestructura',
-        description: 'There are many variations variats.'
+        description: 'Más de X obras realizadas a nivel nacional.'
     },
     {
         image: '/images/service/galery-image-02.svg',
         title: 'Aviación',
-        description: 'Passages there are many variatin.'
+        description: 'Retrofit de helipuertos y Overhaul de helicópteros Series Mi17.'
     },
     {
         image: '/images/service/galery-image-03.svg',
-        title: 'Solución Satelital',
-        description: 'Variations There are many of pass.'
+        title: 'Solución Satelital AI4EO',
+        description: 'Monitoreo Satelital Alimentado con Inteligencia Artificial.'
     },
     {
         image: '/images/service/galery-image-04.svg',
         title: 'Eficiencia Energética',
-        description: 'Variations There are many of pass.'
+        description: 'Toma decisiones con datos, no con supuestos.'
     }
 ]
 const ServiceTwo = ({textAlign, cardStyle}) => {
