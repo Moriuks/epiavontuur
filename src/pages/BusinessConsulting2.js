@@ -78,8 +78,8 @@ const BusinessConsulting2 = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "Con lo que te podemos ayudar"
-                                    title = "Servicios con los que contamos."
+                                    subtitle = "Te podemos ayudar a volver ese sueño realidad"
+                                    title = "Nuestros principales servicios."
                                     description = "Ser respetuoso al escuchar atentamente a nuestros clientes para <br /> comprender sus necesidades y desafíos en"
                                     />
                             </div>
