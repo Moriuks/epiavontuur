@@ -30,7 +30,9 @@ const mission = () => {
                             </h2>
                             <p>Proveer a nuestros clientes trabajos de calidad y excelencia, con una atención y servicio al cliente ejemplares. Con nuestros más de 35 años de experiencia en la ejecución de proyectos, cumplimos siempre con los estándares de seguridad más rigurosos y bajo las normas aplicables para el correcto desarrollo y operatividad de cada proyecto.</p>
 
-                            {/* <p>Consectetur adipisicing elit. Quia quaerat dolore laboriosam ea minus dignissimos, laudantium odit officia soluta, et deleniti fugit deserunt saepe, velit sapiente obcaecati? Vitae, iusto delectus?</p> */}
+                            <p>Misión: <br></br> Mejorar el desarrollo sostenible y planificado de México, así como la calidad de vida de sus habitantes a través de proyectos de impacto</p>
+
+                            <p>Visión: <br></br> Ofrecer soluciones integrales, adaptables y flexibles que permiten la toma de decisiones de nuestros clientes de una manera rápida y certera. </p>
 
                             <div className="read-more-btn mt--50">
                                 <Link className="btn-default btn-icon" to="#">Conócenos <i className="icon"><FiArrowRight /></i></Link>
