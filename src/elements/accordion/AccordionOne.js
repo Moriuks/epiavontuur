@@ -18,35 +18,25 @@ const AccordionOne = ({customStyle}) => {
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="1">
-                    ¿Qué soluciones proporciona Epi Avoontur ? 
+                    Misión
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="1">
-                    <Card.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet finibus lorem eu varius. Nam hendrerit elit ac massa pretium, sed ultrices lorem euismod. Maecenas varius semper dictum.</Card.Body>
+                    <Card.Body>Mejorar el desarrollo sostenible y planificado de México, así como la calidad de vida de sus habitantes a través de proyectos de impacto.</Card.Body>
                 </Accordion.Collapse>
             </Card>
 
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="2">
-                    ¿Cómo ayudamos a reducir la huella de carbono ? 
+                    Visión 
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="2">
-                    <Card.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet finibus lorem eu varius. Nam hendrerit elit ac massa pretium, sed ultrices lorem euismod. Maecenas varius semper dictum..</Card.Body>
+                    <Card.Body>Ofrecer soluciones integrales, adaptables y flexibles que permiten la toma de decisiones de nuestros clientes de una manera rápida y certera. </Card.Body>
                 </Accordion.Collapse>
             </Card>
 
-            <Card>
-                <Card.Header>
-                <Accordion.Toggle as={Button} variant="link" eventKey="3">
-                    ¿Cómo ayudamos a reducir la huella de carbono ? 
-                </Accordion.Toggle>
-                </Card.Header>
-                <Accordion.Collapse eventKey="3">
-                    <Card.Body>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet finibus lorem eu varius. Nam hendrerit elit ac massa pretium, sed ultrices lorem euismod. Maecenas varius semper dictum.</Card.Body>
-                </Accordion.Collapse>
-            </Card>
 
         </Accordion>
     )
