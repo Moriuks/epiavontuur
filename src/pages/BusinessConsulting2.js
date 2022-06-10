@@ -37,13 +37,13 @@ const BusinessConsulting2 = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="inner text-center">
-                                    <span className="subtitle">Una Empresa neutral en carbono</span>
+                                    <span className="subtitle">Especialistas en generar Valor</span>
                                     <h1 className="title theme-gradient display-two">Epi Avontuur <br /> {" "}
                                         <Typed
                                             strings={[
-                                                "Consultaría.",
-                                                "Infraestuctura.",
-                                                "Agencia."
+                                                "Infraestructura.",
+                                                "Consultoría.",
+                                                "Sostenibilidad."
                                             ]}
                                             typeSpeed={80}
                                             backSpeed={5}
@@ -51,7 +51,7 @@ const BusinessConsulting2 = () => {
                                             loop
                                         />
                                     </h1>
-                                    <p className="description">Ayudamos a nuestros clientes a tener éxito mediante la integración de soluciones de interconectividad y construcción.</p>
+                                    <p className="description">Ayudamos a nuestros clientes a alcanzar el éxito de sus ideas mediante la integración de diversas soluciones de construcción e interconectividad.</p>
                                     <div className="button-group">
                                         <a className="btn-default btn-medium round btn-icon" target="_blank" href="/contact">contactar <i className="icon"><FiArrowRight /></i></a>
                                         {/* <Link className="btn-default btn-medium btn-border round btn-icon" to="#">Contact Us <i className="icon"><FiArrowRight /></i></Link> */}
