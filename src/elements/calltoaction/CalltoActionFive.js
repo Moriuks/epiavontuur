@@ -4,8 +4,8 @@ import { FiArrowRight } from "react-icons/fi";
 
 const callToActionData = {
     title: "¿Interesado en conocer más de nuestras soluciones?",
-    subtitle: "Conoce las posibiliades que puedes tener",
-    btnText: "contacta EpiAvn",
+    subtitle: "Conoce el mundo de posibilidades con las que te podemos ayudar",
+    btnText: "Contáctanos",
 }
 
 const CalltoActionFive = () => {
