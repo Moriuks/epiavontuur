@@ -7,7 +7,7 @@ import BrandThree from '../elements/brand/BrandThree';
 import AboutFour from '../elements/about/AboutFour';
 import ServiceOne from "../elements/service/ServiceOne";
 import SectionTitle from "../elements/sectionTitle/SectionTitle";
-import CounterUpFour from "../elements/counterup/CounterUpFour";
+import CounterUpOne from "../elements/counterup/CounterUpOne";
 import TeamFour from "../elements/team/TeamFour";
 import TimelineTwo from "../elements/timeline/TimelineTwo";
 import Separator from "../elements/separator/Separator";
@@ -44,18 +44,32 @@ const AboutUs = () => {
                         <div className="row">
                             <div className="col-lg-6">
                                 <div className="content">
-                                    <h3 className="title">Somos una empresa creativa que trabaja para las marcas de nuestra empresa.</h3>
+                                    <h4 className="title">
+                                        +30 años operando<br></br>
+                                        +30 clientes <br></br>
+                                        +250 contratos <br></br>
+                                        $200 M/usd facturados <br></br>
+                                    </h4>
                                 </div>
                             </div>
                             <div className="col-lg-6">
-                                <p className="mb--10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, quis. Ullam accusantium dignissimos repellendus nemo fugiat numquam, nisi odio adipisci. Veniam neque itaque expedita officiis rem ipsa! Ratione, rem reiciendis?</p>
+                                <p className="mb--10">Somos una familia multicultural y multidisciplinaria donde todo el tiempo buscamos ampliar nuestro conocimiento. La energía, la diversidad y la inclusión de nuestros miembros, forman rasgos únicos que nos permiten proponer soluciones creativas y de calidad a los proyectos de nuestros clientes.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 {/* End Service Area  */}
 
+                <Separator />
 
+               
+                {/* Start Elements Area  */}
+                <div className="rwt-counterup-area pb--100">
+                    <div className="container mt_dec--30">
+                        <CounterUpOne column="col-lg-3 col-md-6 col-sm-6 col-12" counterStyle="counter-style-4" textALign="text-center" />   
+                    </div>
+                </div>
+                {/* End Elements Area  */}
 
                 {/* Start Brand Area  */}
                 <div className="rwt-brand-area pb--60 pt--30">
@@ -108,13 +122,6 @@ const AboutUs = () => {
 
                 <AboutFour image="./images/about/contact-image.jpg" />
                 
-                {/* Start Elements Area  */}
-                {/* <div className="rwt-counterup-area pb--100">
-                    <div className="container mt_dec--30">
-                        <CounterUpFour column="col-lg-3 col-md-6 col-sm-6 col-12" counterStyle="counter-style-4" textALign="text-center" />   
-                    </div>
-                </div> */}
-                {/* End Elements Area  */}
 
                 <Separator />
 

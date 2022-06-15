@@ -4,24 +4,24 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 const ServiceList = [
     {
-        image: '/images/service/serviice-01.jpg',
-        title: 'Awarded Design',
-        description: 'There are many variations variats  of passages of Lorem Ipsum available.'
+        image: '/images/service/galery-image-01.svg',
+        title: 'Infraestructura',
+        description: 'Más de X obras realizadas a nivel nacional.'
     },
     {
-        image: '/images/service/serviice-02.jpg',
-        title: 'Design & Creative',
-        description: 'Passages there are many variatin Lorem Ipsum available majority suffered.'
+        image: '/images/service/galery-image-02.svg',
+        title: 'Aviación',
+        description: 'Retrofit de helipuertos y Overhaul de helicópteros Series Mi17.'
     },
     {
-        image: '/images/service/serviice-03.jpg',
-        title: 'App Development',
-        description: 'Variations There are many of pass ages of Lorem Ipsum available the majority.'
+        image: '/images/service/galery-image-03.svg',
+        title: 'Solución Satelital AI4EO',
+        description: 'Monitoreo Satelital Alimentado con Inteligencia Artificial.'
     },
     {
-        image: '/images/service/serviice-04.jpg',
-        title: 'Web Design',
-        description: 'Variations There are many of pass ages of Lorem Ipsum available the majority.'
+        image: '/images/service/galery-image-04.svg',
+        title: 'Eficiencia Energética',
+        description: 'Toma decisiones con datos, no con supuestos.'
     }
 ]
 const ServiceTwo = ({textAlign, cardStyle}) => {
@@ -43,7 +43,7 @@ const ServiceTwo = ({textAlign, cardStyle}) => {
                                 <div className="content">
                                     <h4 className="title mb--20"><Link to="#service" dangerouslySetInnerHTML={{__html: val.title}}></Link></h4>
                                     <p className="description b1 color-gray mb--0" dangerouslySetInnerHTML={{__html: val.description}}></p>
-                                    <Link className="btn-default btn-small btn-border" to="#service">Read More</Link>
+                                    <Link className="btn-default btn-small btn-border" to="#service">Conocer Más</Link>
                                 </div>
                             </div>
                         </div>

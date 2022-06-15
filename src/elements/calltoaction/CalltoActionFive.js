@@ -4,8 +4,8 @@ import { FiArrowRight } from "react-icons/fi";
 
 const callToActionData = {
     title: "¿Interesado en conocer más de nuestras soluciones?",
-    subtitle: "Conoce las posibiliades que puedes tener",
-    btnText: "contacta EpiAvn",
+    subtitle: "Conoce el mundo de posibilidades con las que te podemos ayudar",
+    btnText: "Contáctanos",
 }
 
 const CalltoActionFive = () => {
@@ -34,7 +34,7 @@ const CalltoActionFive = () => {
                                 animateOut="fadeInOut"
                                 animateOnce={true}>
                                     <div className="call-to-btn text-center">
-                                        <a className="btn-default btn-icon" href="#">{callToActionData.btnText} <i className="icon"><FiArrowRight /></i></a>
+                                        <a className="btn-default btn-icon" href="/contact">{callToActionData.btnText} <i className="icon"><FiArrowRight /></i></a>
                                     </div>
                                 </ScrollAnimation>
                             </div>

@@ -70,6 +70,8 @@ import Error from "./pages/Error";
 
 // Import Css Here 
 import './assets/scss/style.scss';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 
 const App = () => {

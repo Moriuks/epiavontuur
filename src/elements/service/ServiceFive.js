@@ -17,6 +17,11 @@ const ServiceList = [
         image: '/images/service/galery-image-03.png',
         title: 'soluciones satelitales',
         description: 'Variations There are many of pass.'
+    },
+    {
+        image: '/images/service/galery-image-03.png',
+        title: 'soluciones satelitales',
+        description: 'Variations There are many of pass.'
     }
 ]
 const ServiceFive = ({textAlign, serviceStyle}) => {
